@@ -3,7 +3,7 @@
 <h1 align="center">Hello!</h1>
 
 <p align="center">
-  <a href="https://i.gifer.com/N2j1.gif">
+  <a href="zalogarciam.com">
     <img src="https://github.com/zalogarciam/github/blob/master/N2j1.gif" width="450">
   </a>
 </p>
@@ -59,8 +59,7 @@
 
 <p>
   <img src="https://github.com/shaurya-src/shaurya-src/blob/main/Assets/python.png" height=40 hspace=10>
-  <img src="https://github.com/shaurya-src/shaurya-src/blob/main/Assets/cpp.png" height=40 hspace=10>
-  <img src="https://github.com/shaurya-src/shaurya-src/blob/main/Assets/sql.png" height=40 hspace=10>
+  <img src="https://github.com/zalogarciam/github/blob/master/csharp.png" height=40 hspace=10>
 </p>
 
 <h3>
