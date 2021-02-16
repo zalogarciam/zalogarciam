@@ -50,7 +50,7 @@
 </a>
 <h3>
   <code>
-    Development Tools/Libraries
+    Preferred Languages
   </code>
 </h3>
 
@@ -66,7 +66,7 @@
 
 <h3>
   <code>
-    Tools Used
+    Development Tools/Libraries
   </code>
 </h3>
 
