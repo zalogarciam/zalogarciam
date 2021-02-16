@@ -75,10 +75,6 @@
 <p>
   <img src="https://github.com/shaurya-src/shaurya-src/blob/main/Assets/git.png" height=40 hspace=10>
   <img src="https://github.com/shaurya-src/shaurya-src/blob/main/Assets/Tensorflow.png" height=40 hspace=10>
-  <img src="https://github.com/shaurya-src/shaurya-src/blob/main/Assets/NumPy.png" height=40 hspace=10>
-  <img src="https://github.com/shaurya-src/shaurya-src/blob/main/Assets/pandas_logo.png" height=40 hspace=10>
-  <img src="https://github.com/shaurya-src/shaurya-src/blob/main/Assets/Matplotlib.png" height=40 hspace=10>
-  <img src="https://github.com/shaurya-src/shaurya-src/blob/main/Assets/scipy.png" height=40 hspace=10>
   <img src="https://github.com/zalogarciam/github/blob/master/unity_new.png" width =40 height=40 hspace=10>
   <img src="https://github.com/zalogarciam/github/blob/master/sql_new.png" width =40 height=40 hspace=10>
   <img src="https://github.com/zalogarciam/github/blob/master/react_new.png" width =40 height=40 hspace=10>
