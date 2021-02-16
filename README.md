@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/zalogarciam">
-    <img src="https://tenor.com/bp3AQ.gif" width="450">
+    <img src="" width="450">
   </a>
 </p>
 
