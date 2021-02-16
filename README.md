@@ -1,4 +1,4 @@
-<a href="https://twitter.com/zalogarciam" target="_blank" rel="nofollow"><img align="right" alt="Shaurya's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a><a href="https://www.linkedin.com/in/shaurya-src/" target="_blank" rel="nofollow"><img align="right" alt="Shaurya's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a><a href="https://www.instagram.com/shaurya_src/" target="_blank" rel="nofollow"><img align="right" alt="Shaurya's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
+<a href="https://twitter.com/zalogarciam" target="_blank" rel="nofollow"><img align="right" alt="Shaurya's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a><a href="https://www.linkedin.com/in/zalogarciam/" target="_blank" rel="nofollow"><img align="right" alt="Shaurya's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a><a href="https://www.instagram.com/shaurya_src/" target="_blank" rel="nofollow"><img align="right" alt="zalogarciam Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
 
 <h1 align="center">Hello!</h1>
 
@@ -33,7 +33,7 @@
 
 <p align="center">
   <code>
-  I'm Shaurya Choudhary, an adept learner exploring the depths of technology. I am a 3rd year undergrad at VIT, Vellore, majoring in Computer Science and Engineering (<strong>CSE</strong>). I have a great passion for <strong>Data Strcutruces & Algorithms</strong> along with <strong>Data Science</strong>.
+  I'm Gonzalo, an adept learner exploring the depths of technology. I studied bachelor of Software Engineering at UCSM and a Master Degree at Unimelb. I have a great passion for <strong>Software Development, Data Structures & Algorithms</strong> along with <strong>AI and HCI</strong>.
   </code>
 </p>
 
@@ -86,9 +86,8 @@ ________________________________________________________________________________
 <br>
 
 - ☯️ If you don’t like the hand that fate’s dealt you with, fight for a new one. <br>
-- 🤝 Open for collaboration in Data Science and Deep Learning. <br>
-- 🕸️ Visit my porfolio [website](https://www.shauryasrc.com/) for more info. <br>
-- 🌀 Trying to blog at [Medium](https://shaurya-src.medium.com/).
+- 🤝 Open for collaboration in AI and HCI. <br>
+- 🕸️ Visit my porfolio [website](https://www.zalogarciam.com/) for more info. <br>
 
 <br>
 
@@ -96,8 +95,8 @@ ________________________________________________________________________________
  <summary> ✇ <b>My Github Stats</b>: </summary>
 <br>
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=shaurya-src&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=shaurya-src&hide=TeX,HTML&theme=tokyonight">
+  <img src = "https://github-readme-stats.vercel.app/api?username=zalogarciam&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=zalogarciam&hide=TeX,HTML&theme=tokyonight">
 </p>
 </details>
 -----
