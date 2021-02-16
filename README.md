@@ -58,7 +58,7 @@
 <br>
 
 <p>
-  <img src="https://github.com/shaurya-src/shaurya-src/blob/main/Assets/python.png" height=100 width = 100 hspace=10>
+  <img src="https://github.com/zalogarciam/github/blob/master/python.png" height=100 width = 100 hspace=10>
   <img src="https://github.com/zalogarciam/github/blob/master/csharp.png" width =100 height=100 hspace=10>
 </p>
 
