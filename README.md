@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/zalogarciam">
-    <img src="" width="450">
+    <img src="https://gfycat.com/spryvaluablehousefly" width="450">
   </a>
 </p>
 
