@@ -99,7 +99,4 @@ ________________________________________________________________________________
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=zalogarciam&hide=TeX,HTML&theme=tokyonight">
 </p>
 </details>
------
-Credits: [shaurya-src](https://github.com/shaurya-src)
 
-Last Edited on: 15/01/2021
