@@ -1,6 +1,6 @@
 <a href="https://twitter.com/zalogarciam" target="_blank" rel="nofollow"><img align="right" alt="Shaurya's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a><a href="https://www.linkedin.com/in/zalogarciam/" target="_blank" rel="nofollow"><img align="right" alt="Shaurya's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a><a href="https://www.instagram.com/zalogarciam/" target="_blank" rel="nofollow"><img align="right" alt="zalogarciam Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
 
-<h1 align="center">Hello!</h1>
+<h1 align="center">Hello Everybody!</h1>
 
 <p align="center">
   <a href="zalogarciam.com">
@@ -33,7 +33,7 @@
 
 <p align="center">
   <code>
-  I'm Gonzalo, an adept learner exploring the depths of technology. I studied bachelor of Software Engineering at UCSM and a Master Degree at Unimelb. I have a great passion for <strong>Software Development, Data Structures & Algorithms</strong> along with <strong>AI and HCI</strong>.
+  I'm Gonzalo, an adept learner exploring the depths of technology. I studied bachelor of Software Engineering at UCSM and a Master Degree in Computer Scienceat Unimelb. I have a great passion for <strong>Software Development, Data Structures & Algorithms</strong> along with <strong>AI and HCI research</strong>.
   </code>
 </p>
 
