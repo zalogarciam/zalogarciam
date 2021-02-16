@@ -59,7 +59,8 @@
 <p>
   <img src="https://github.com/zalogarciam/github/blob/master/python_new.png" height=80 width = 80 hspace=10>
   <img src="https://github.com/zalogarciam/github/blob/master/csharp_new.png" width =80 height=80 hspace=10>
- 
+   <img src="https://github.com/zalogarciam/github/blob/master/javascript_new.png" width =80 height=80 hspace=10>
+
 </p>
 
 
@@ -78,6 +79,8 @@
   <img src="https://github.com/shaurya-src/shaurya-src/blob/main/Assets/pandas_logo.png" height=40 hspace=10>
   <img src="https://github.com/shaurya-src/shaurya-src/blob/main/Assets/Matplotlib.png" height=40 hspace=10>
   <img src="https://github.com/shaurya-src/shaurya-src/blob/main/Assets/scipy.png" height=40 hspace=10>
+   <img src="https://github.com/zalogarciam/github/blob/master/unity_new.png" width =40 height=40 hspace=10>
+
 </p>
 ______________________________________________________________________________________
 
