@@ -10,9 +10,7 @@
 
 <p align="center">
   <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
-  <a href="https://en.wikipedia.org/wiki/Homo_sapiens">
-    <img src="https://img.shields.io/badge/Species-Homo_sapiens-success?style=flat-square&logo=mailchimp&logoColor=white">
-  </a>
+
   <a href="https://en.wikipedia.org/wiki/Life">
     <img src="https://img.shields.io/badge/Status-Stable-success?style=flat-square&logo=gravatar&logoColor=white">
   </a>
@@ -33,7 +31,7 @@
 
 <p align="center">
   <code>
-  I'm Gonzalo, an adept learner exploring the depths of technology. I studied bachelor of Software Engineering at UCSM and a Master Degree in Computer Scienceat Unimelb. I have a great passion for <strong>Software Development, Data Structures & Algorithms</strong> along with <strong>AI and HCI research</strong>.
+  I'm Gonzalo, an adept learner exploring the depths of technology. I studied bachelor of Software Engineering at UCSM and a Master Degree in Computer Science at Unimelb. I have a great passion for <strong>Software Development, Data Structures & Algorithms</strong> along with <strong>AI and HCI research</strong>.
   </code>
 </p>
 
