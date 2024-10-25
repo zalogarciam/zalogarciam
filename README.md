@@ -1,101 +1,47 @@
-<a href="https://twitter.com/zalogarciam" target="_blank" rel="nofollow"><img align="right" alt="Shaurya's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a><a href="https://www.linkedin.com/in/zalogarciam/" target="_blank" rel="nofollow"><img align="right" alt="Shaurya's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a><a href="https://www.instagram.com/zalogarciam/" target="_blank" rel="nofollow"><img align="right" alt="zalogarciam Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
+### 👋 Hello, I'm Gonzalo!
+I’m a Peruvian software engineer based in Arequipa, Peru. With a foundation in Software Engineering from **Universidad Católica de Santa María, Peru**, and a Master’s in Computer Science from **The University of Melbourne, Australia**, I’m currently working at **Baires Dev, USA**, as a Software Engineer specializing in **web and desktop development**.
 
-<h1 align="center">Hello Everybody!</h1>
+### 🚀 About Me
+
+- 💼 **Professional Background**: With 8 years of experience in **Web, Desktop, and Mobile Development**, I bring deep expertise in **Data Structures & Algorithms**. I’m skilled in architecting robust, scalable, and efficient software solutions.
+- 🧠 **Research Focus**: My research interests include **Artificial Intelligence** and **Human-Computer Interaction (HCI)**, with contributions through published work and projects in these areas.
+- 📈 **Technical Strengths**: Known for my collaborative work style, I enjoy working with cross-functional teams, analyzing user requirements, and delivering effective, impactful solutions.
+- 🌱 **Hobbies**: When I'm not coding, I’m passionate about **Snowboarding, Crossfit, and 3D Printing**.
+
+### 🛠️ My Tech Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white" alt=".NET" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+</p>
+
+---
+
+### 📊 GitHub Stats
 
 <p align="center">
-  <a href="zalogarciam.com">
-    <img src="https://github.com/zalogarciam/github/blob/master/N2j1.gif" width="450">
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=zalogarciam&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&line_height=27" alt="GitHub Stats">
 </p>
+
+---
+
+### 📚 Most Used Languages
 
 <p align="center">
-  <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
-
-  <a href="https://en.wikipedia.org/wiki/Life">
-    <img src="https://img.shields.io/badge/Status-Stable-success?style=flat-square&logo=gravatar&logoColor=white">
-  </a>
-  <a href="https://en.wikipedia.org/wiki/Computer_science">
-    <img src="https://img.shields.io/badge/My%20jam-Computer%20Science-critical?style=flat-square&logo=electron&logoColor=white">
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zalogarciam&hide=TeX,HTML&theme=tokyonight&layout=compact" alt="Top Languages">
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Windows-10-292e33?style=flat-square&logo=microsoft&logoColor=ffffff">
-  <img src="https://img.shields.io/badge/Linux-Kali-292e33?style=flat-square&logo=Arch-Linux&logoColor=ffffff">
-  <img src="https://img.shields.io/badge/IDE-PyCharm-292e33?style=flat-square&logo=PyCharm&logoColor=fff">
-  <img src="https://img.shields.io/badge/BROWSER-Edge-292e33?style=flat-square&logo=Microsoft-Edge">
-  <img src="https://img.shields.io/badge/BROWSER-Tor-292e33?style=flat-square&logo=Tor-Project">
-</p>
+---
 
-<br>
+## 🌐 Let's Connect
+- 📧 Reach me at: [zalogarciam.com](https:///zalogarciam.com)
+- 🖇️ LinkedIn: [zalogarciam](https://www.linkedin.com/in/zalogarciam)
+- 🐦 Twitter: [@zalogarciam](https://twitter.com/zalogarciam)
 
-<p align="center">
-  <code>
-  I'm Gonzalo, an adept learner exploring the depths of technology. I studied bachelor of Software Engineering at UCSM and a Master Degree in Computer Science at Unimelb. I have a great passion for <strong>Software Development, Data Structures & Algorithms</strong> along with <strong>AI and HCI research</strong>.
-  </code>
-</p>
+---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shaurya-src" alt="Shaurya Choudhary" />
-</p>
-
-<br>
-
-<a href="https://github.com/kittinan/spotify-github-profile" target="blank">
-  <img align="right"
-    src="https://spotify-github-profile.vercel.app/api/view.svg?uid=22giuls6hubzaah6fnz2r5qda&cover_image=true&theme=default"
-    alt="spotify" />
-</a>
-<h3>
-  <code>
-    Preferred Languages
-  </code>
-</h3>
-
-<br>
-
-<p>
-  <img src="https://github.com/zalogarciam/github/blob/master/python_new.png" height=80 width = 80 hspace=10>
-  <img src="https://github.com/zalogarciam/github/blob/master/csharp_new.png" width =80 height=80 hspace=10>
-   <img src="https://github.com/zalogarciam/github/blob/master/javascript_new.png" width =80 height=80 hspace=10>
-
-</p>
-
-
-<h3>
-  <code>
-    Development Tools/Libraries
-  </code>
-</h3>
-
-<br>
-
-<p>
-  <img src="https://github.com/zalogarciam/github/blob/master/net_new.png" width =40 height=40 hspace=10>
-  <img src="https://github.com/shaurya-src/shaurya-src/blob/main/Assets/git.png" height=40 hspace=10>
-  <img src="https://github.com/shaurya-src/shaurya-src/blob/main/Assets/Tensorflow.png" height=40 hspace=10>
-  <img src="https://github.com/zalogarciam/github/blob/master/unity_new.png" width =40 height=40 hspace=10>
-  <img src="https://github.com/zalogarciam/github/blob/master/sql_new.png" width =40 height=40 hspace=10>
-  <img src="https://github.com/zalogarciam/github/blob/master/react_new.png" width =40 height=40 hspace=10>
-
-</p>
-______________________________________________________________________________________
-
-<br>
-<br>
-
-- ☯️ If you don’t like the hand that fate’s dealt you with, fight for a new one. <br>
-- 🤝 Open for collaboration in AI and HCI. <br>
-- 🕸️ Visit my porfolio [website](https://www.zalogarciam.com/) for more info. <br>
-
-<br>
-
-<details open>
- <summary> ✇ <b>My Github Stats</b>: </summary>
-<br>
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=zalogarciam&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=zalogarciam&hide=TeX,HTML&theme=tokyonight">
-</p>
-</details>
-
+> _"I can fix the World 🌎, but they won't give me the source code 💻."_
